@@ -5,18 +5,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;React+Native+Enthusiast;Java+and+Backend+Learner;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=react,javascript,typescript,java,python,mysql,nodejs,github,linux,vscode" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luuvanphat&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanphat&layout=compact&theme=radical" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhatLuu&theme=radical" alt="streak" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
