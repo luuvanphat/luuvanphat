@@ -1,45 +1,75 @@
-<h1 align="center">Hi 👋, I'm Luu Van Phat</h1>
-<h3 align="center">A final-year Software Engineering student from Vietnam</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=36BCF7&size=35&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Luu+Van+Phat!" alt="Phat Luu" />
+  </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Learner;React+Native+Enthusiast;Java+and+Backend+Learner;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
+  <h3 align="center">Final-year Software Engineering Student 👨‍💻</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,java,mysql,nodejs,github,docker,vscode,linux" />
-</p>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhatLuu&theme=radical&hide_border=true" alt="streak" />
-</p>
+<br>
 
----
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <td width="55%" valign="top">
+        <div align="left">
+          <h2>🚀 About Me</h2>
+          <p>🎓 Senior student majoring in <b>Software Engineering</b>.</p>
+          <p>📱 Passionate about <b>React Native</b> and building cross-platform mobile apps.</p>
+          <p>⚙️ Currently diving deep into <b>Java Backend (Spring Boot)</b> and Microservices.</p>
+          <p>🌟 Goal: To write clean, scalable code and become a better developer every day.</p>
+          <p>
+            <img src="https://skillicons.dev/icons?i=react,js,ts,java,mysql,nodejs,docker,github" alt="Tech Stack" />
+          </p>
+        </div>
+      </td>
+      <td width="45%" align="center" valign="middle">
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80%" alt="Coding GIF"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🚀 About Me
-- 🎓 Currently a senior student majoring in **Software Engineering**.
-- 💻 I enjoy building mobile apps with **React Native** and exploring **Backend** systems.
-- 🌱 I’m currently improving my skills in **System Architecture** and **Microservices**.
-- ✉️ Feel free to reach out to me for collaboration or just a friendly chat!
+<h2 align="center">🛠️ My Tech Stack</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="130"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,js,ts,html,css" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,mysql,spring" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,postman" /></td>
+  </tr>
+</table>
 
----
+<h2 align="center">📊 Activity & Stats</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhatLuu&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhatLuu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhatLuu&layout=compact&theme=radical&hide_border=true" width="40%" />
+</div>
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Java, JavaScript, TypeScript.
-- **Frontend:** React, React Native.
-- **Backend:** Node.js, MySQL.
-- **Tools:** Docker, Git, VS Code.
-
----
-
-<p align="center">
+<h2 align="center">🤝 Let's Connect</h2>
+<div align="center">
   <a href="mailto:912.luuvanphat24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/PhatLuu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</p>
+  <br/><br/>
+  <sub>Made with 💖 by <b>Luu Van Phat</b></sub>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=PhatLuu&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</div>
