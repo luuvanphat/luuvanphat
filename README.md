@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=36BCF7&size=35&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Luu+Van+Phat!" alt="Phat Luu" />
   </a>
 
-  <h3 align="center">Final-year Software Engineering Student 👨‍💻</h3>
-
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 </div>
 
@@ -36,29 +34,25 @@
 <table align="center">
   <tr>
     <td align="center" width="130"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,js,ts,html,css" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,js,ts" /></td>
   </tr>
   <tr>
     <td align="center" width="130"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" /></td>
   </tr>
   <tr>
     <td align="center" width="130"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,mysql,spring" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,mariadb,redis" /></td>
   </tr>
   <tr>
     <td align="center" width="130"><b>Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,postman" /></td>
   </tr>
 </table>
-
-<h2 align="center">📊 Activity & Stats</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhatLuu&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=PhatLuu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhatLuu&layout=compact&theme=radical&hide_border=true" width="40%" />
-</div>
 
 <h2 align="center">🤝 Let's Connect</h2>
 <div align="center">
