@@ -24,7 +24,7 @@
         </div>
       </td>
       <td width="45%" align="center" valign="middle">
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80%" alt="Coding GIF"/>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding GIF"/>
       </td>
     </tr>
   </table>
@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td align="center" width="130"><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,mariadb,redis" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" /></td>
   </tr>
   <tr>
     <td align="center" width="130"><b>Tools</b></td>
