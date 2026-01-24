@@ -2,11 +2,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=36BCF7&size=35&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Luu+Van+Phat!" alt="Phat Luu" />
   </a>
-<h3 align="center"> Software Engineer </h3>
+  <h3 align="center"> Software Engineer </h3>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-  <img src="https://pablosirera.com/wp-content/uploads/2021/04/banner-github.gif" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatLuu&repo=PhatLuu&theme=radical&show_owner=true" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luu%20Van%20Phat&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <br>
@@ -19,7 +16,7 @@
           <h2>🚀 About Me</h2>
           <p>🎓 Senior student majoring in <b>Software Engineering</b>.</p>
           <p>📱 Passionate about <b>React Native</b> and building cross-platform mobile apps.</p>
-          <p>⚙️ Currently diving deep into <b>Java Backend (Spring Boot)</b> and Microservices.</p>
+          <p>⚙️ Currently diving deep into <b>Java Backend (Spring Boot)</b> and <b>Node.js</b>.</p>
           <p>🌟 Goal: To write clean, scalable code and become a better developer every day.</p>
           <p>
             <img src="https://skillicons.dev/icons?i=react,js,ts,java,mysql,nodejs,docker,github" alt="Tech Stack" />
@@ -37,26 +34,32 @@
 <table align="center">
   <tr>
     <td align="center" width="130"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,js,ts" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,js,ts" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="center" width="130"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend" /></td>
   </tr>
   <tr>
     <td align="center" width="130"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="center" width="130"><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Database" /></td>
   </tr>
   <tr>
     <td align="center" width="130"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,postman" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,postman" alt="Tools" /></td>
   </tr>
 </table>
-
+<h2 align="center">📊 My GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luuvanphat&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanphat&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luuvanphat&theme=radical&hide_border=true" width="89%" />
+</div>
 <h2 align="center">🤝 Let's Connect</h2>
 <div align="center">
   <a href="mailto:912.luuvanphat24@gmail.com">
@@ -68,5 +71,5 @@
   <br/><br/>
   <sub>Made with 💖 by <b>Luu Van Phat</b></sub>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=PhatLuu&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=luuvanphat&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </div>
