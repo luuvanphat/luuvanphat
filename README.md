@@ -2,8 +2,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=36BCF7&size=35&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Luu+Van+Phat!" alt="Phat Luu" />
   </a>
-
+<h3 align="center"> Software Engineer </h3>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+  <img src="https://pablosirera.com/wp-content/uploads/2021/04/banner-github.gif" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhatLuu&repo=PhatLuu&theme=radical&show_owner=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luu%20Van%20Phat&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <br>
