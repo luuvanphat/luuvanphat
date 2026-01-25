@@ -53,13 +53,6 @@
     <td><img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,postman" alt="Tools" /></td>
   </tr>
 </table>
-<h2 align="center">📊 My GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luuvanphat&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuvanphat&layout=compact&theme=radical&hide_border=true" width="40%" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luuvanphat&theme=radical&hide_border=true" width="89%" />
-</div>
 <h2 align="center">🤝 Let's Connect</h2>
 <div align="center">
   <a href="mailto:912.luuvanphat24@gmail.com">
