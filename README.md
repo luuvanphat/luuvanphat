@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=36BCF7&size=35&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Luu+Van+Phat!" alt="Phat Luu" />
   </a>
-  <h3 align="center"> Software Engineer </h3>
+  <h3 align="center"> Software Engineer 🌐🛠️</h3>
 </div>
 
 <br>
@@ -10,9 +10,13 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
-      <td width="55%" valign="top">
-        <div align="left">
-          <h2>🚀 About Me</h2>
+      <td width="45%" valign="top">
+        <div align="center">
+          <h2>
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="35" height="35" />
+              About Me
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="35" height="35" />
+            </h2>
           <p>🎓 Senior student majoring in <b>Software Engineering</b>.</p>
           <p>📱 Passionate about <b>React Native</b> and building cross-platform mobile apps.</p>
           <p>⚙️ Currently diving deep into <b>Java Backend (Spring Boot)</b> and <b>Node.js</b>.</p>
@@ -22,7 +26,7 @@
           </p>
         </div>
       </td>
-      <td width="25%" valign="middle" align="center" style="border: none;">
+      <td width="20%" valign="middle" align="center" style="border: none;">
           <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100%" alt="Coding GIF"/>
       </td>
   </table>
