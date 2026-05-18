@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=36BCF7&size=35&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Luu+Van+Phat!" alt="Phat Luu" />
   </a>
   <h3 align="center"> Software Engineer </h3>
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 </div>
 
 <br>
@@ -23,14 +22,13 @@
           </p>
         </div>
       </td>
-      <td width="45%" align="center" valign="middle">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding GIF"/>
+      <td width="25%" valign="middle" align="center" style="border: none;">
+          <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100%" alt="Coding GIF"/>
       </td>
-    </tr>
   </table>
 </div>
 
-<h2 align="center">🛠️ My Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 <table align="center">
   <tr>
     <td align="center" width="130"><b>Languages</b></td>
