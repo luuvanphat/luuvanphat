@@ -17,10 +17,13 @@
               About Me
               <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="35" height="35" />
             </h2>
-          <p>🎓 Senior student majoring in <b>Software Engineering</b>.</p>
-          <p>📱 Passionate about <b>React Native</b> and building cross-platform mobile apps.</p>
-          <p>⚙️ Currently diving deep into <b>Java Backend (Spring Boot)</b> and <b>Node.js</b>.</p>
-          <p>🌟 Goal: To write clean, scalable code and become a better developer every day.</p>
+<p>🎓 Final-year Software Engineering student at <b>Industrial University of Ho Chi Minh City (IUH)</b>.</p>
+
+<p>💻 Interested in web development with experience in <b>React</b>, <b>Next.js</b>, <b>JavaScript</b>, and <b>TypeScript</b>.</p>
+
+<p>⚙️ Familiar with building responsive web applications and currently exploring backend development with <b>Java</b> and <b>Spring Boot</b>.</p>
+
+<p>🌱 Continuously improving programming skills through personal and team projects.</p>
           <p>
             <img src="https://skillicons.dev/icons?i=react,js,ts,java,mysql,nodejs,docker,github" alt="Tech Stack" />
           </p>
