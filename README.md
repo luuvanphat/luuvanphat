@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=36BCF7&size=35&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Luu+Van+Phat!" alt="Phat Luu" />
   </a>
-  <h3 align="center"> Software Engineer 🌐🛠️</h3>
+  <h3 align="center"> Fullstack Developer 🌐🛠️</h3>
 </div>
 
 <br>
@@ -60,12 +60,15 @@
 </table>
 <h2 align="center">🤝 Let's Connect</h2>
 <div align="center">
-  <a href="mailto:912.luuvanphat24@gmail.com">
+  <a href="mailto:luuphat402@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/luuvanphat">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/luuvanphat">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <br/><br/>
   <sub>Made with 💖 by <b>Luu Van Phat</b></sub>
   <br/>
